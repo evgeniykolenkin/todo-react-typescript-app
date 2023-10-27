@@ -1,0 +1,27 @@
+.add__input {
+  outline: none;
+}
+
+.error {
+  border: 1px solid red;
+}
+
+.error__message {
+  color: red;
+}
+
+.active__filter {
+  background-color: aquamarine;
+}
+
+.is__done {
+  opacity: 0.5;
+}
+
+button {
+  cursor: pointer;
+  border: none;
+  padding: 5px;
+  margin-right: 5px;
+  margin-top: 5px;
+}
